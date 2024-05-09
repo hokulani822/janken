@@ -7,7 +7,7 @@
 - じゃんけんで遊べるアプリ
 
 ## ③DEMO
-- https://drive.google.com/file/d/1XTxciNKXdD4C765r6bogQL0AFaeyUwt2/view?usp=drive_link
+- https://hokulani822.github.io/janken/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
